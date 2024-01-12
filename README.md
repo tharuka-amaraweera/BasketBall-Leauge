@@ -122,9 +122,3 @@
 <li>url: http://127.0.0.1:8000/teams/list</li>
   </ul>
  </ol>
-                
-                
-<h2>Run test cases</h2>
-  <ul>
-  <li>Use command “python manage.py test” to run test cases. With the given time test cases were implemented only for login and logout functionalities</li>
-  </ul>
